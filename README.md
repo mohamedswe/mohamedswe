@@ -1,4 +1,4 @@
-## Hi, I'm Mohamed \u2014 Backend & AI Engineer
+## Hi, I'm Mohamed — Backend & AI Engineer
 
 I build systems that actually work — from RAG search pipelines to App Store-deployed mobile apps. I'm obsessed with impact: using software to solve real problems for real people.
 
@@ -6,11 +6,11 @@ I build systems that actually work — from RAG search pipelines to App Store-de
 
 ---
 
-### \u2699\ufe0f What I Bring
+### What I Bring
 
 **Backend reliability** — database migrations with forward/backward compatibility, webhook/payment idempotency, production hardening. I don't just build features; I make sure they survive real-world failure modes.
 
-**AI/ML systems** — full-stack RAG pipelines (document ingestion \u2192 embeddings \u2192 vector search \u2192 context-aware generation), multi-modal processing (text + vision), Supabase/pgvector at scale.
+**AI/ML systems** — full-stack RAG pipelines (document ingestion → embeddings → vector search → context-aware generation), multi-modal processing (text + vision), Supabase/pgvector at scale.
 
 **Mobile deployment** — React Native apps through iOS App Store compliance, Google Play launch, EAS build pipelines, and OTA update infrastructure.
 
@@ -18,7 +18,7 @@ I build systems that actually work — from RAG search pipelines to App Store-de
 
 ---
 
-### \ud83d\udccc Featured Projects
+### Featured Projects
 
 | Project | What I Built |
 |---------|-------------|
@@ -29,13 +29,13 @@ I build systems that actually work — from RAG search pipelines to App Store-de
 
 ---
 
-### \ud83d\udee0\ufe0f Stack
+### Stack
 
 `Python` `FastAPI` `React Native` `Expo` `TypeScript` `Next.js` `Supabase` `PostgreSQL` `pgvector` `LangChain` `OpenAI` `Docker` `EAS` `Stripe` `Firebase`
 
 ---
 
-### \ud83c\udfaf What I'm Looking For
+### What I'm Looking For
 
 A team where backend reliability, AI engineering, and real product impact matter. I want to solve hard problems and ship things that change outcomes for users — not just write tickets.
 

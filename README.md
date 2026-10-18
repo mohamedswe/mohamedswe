@@ -4,7 +4,7 @@ I build Python and TypeScript backends, and the AI systems that run on top of th
 
 ### Now
 
-**Founding Software Engineer · [InsectFlux](https://insectflux.com)** · Aug 2025 – present
+**Software Engineer · [InsectFlux](https://insectflux.com)** · Aug 2025 – present
 Data logistics company serving the insect-farming industry. I own backend reliability: schema migrations that keep old and new records working, the backend test suite, Stripe webhooks, and messaging.
 - Moved messaging to webhooks, cutting database reads by ~70%
 - Built backend CI to 85% test coverage

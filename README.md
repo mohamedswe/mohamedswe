@@ -20,7 +20,7 @@ I evaluate AI coding models on software engineering tasks and write the human fe
 | [**Emara**](https://github.com/mohamedswe/emara) | Local CLI that maps a JS/TS/Python codebase into features, links each one to exact source lines, compares code against its docs, and flags dead-code candidates. Fully deterministic: zero LLM calls. [Live demos](https://mohamedswe.github.io/emara/) on uptime-kuma, the FastAPI full-stack template, and bulletproof-react. |
 | [**agent-memory-gate**](https://github.com/mohamedswe/agent-memory-gate) | Research prototype: memory for coding agents that only keeps what repeats across sessions. Zero LLM tokens to write memories (vs. ~13k for A-MEM on the same corpus), 10–29% fewer input tokens per session. Null results published too. |
 | [**AI Tutor**](https://github.com/mohamedswe/ai-tutor-case-study) | Solo RAG platform: students upload course files and ask questions grounded in them. FastAPI, pgvector, GPT-4 Vision for diagrams, Next.js. |
-| [**B-link**](https://github.com/mohamedswe/b-link-case-study) | Campus app for Brock students, shipped to the App Store and Google Play. Lead engineer on a 3-person team: architecture, Apple compliance, trust & safety. |
+| [**B-link**](https://github.com/mohamedswe/b-link-case-study) | Campus app for Brock students, shipped to the App Store and Google Play. Worked with a team of 3 engineers: architecture, Apple compliance, trust & safety. |
 
 ### How I work
 
